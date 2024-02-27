@@ -3,7 +3,7 @@ import 'package:calculator/calculator/data/models/calculator.dart';
 
 void main() {
 
-  group('Calculator', () {
+  group('Subtraction', () {
     final Calculator calculator = Calculator();
 
     test('Given Calculator class, When subtracting two positive numbers, then return positive output', () {
